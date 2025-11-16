@@ -2,7 +2,7 @@
 
 ## 📰 Korean News QA with Fine-tuned LLaMA3
 
-````markdown
+
 # 📰 Korean News QA Fine-tuned LLaMA3
 
 > **NAVER 뉴스 기사 기반 QA 데이터셋을 구축하고, Meta LLaMA3-8B를 파인튜닝한 프로젝트**  
